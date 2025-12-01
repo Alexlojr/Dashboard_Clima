@@ -23,7 +23,8 @@ O app permite consultar informações meteorológicas de forma simples e visual,
 
 - git clone https://github.com/Alexlojr/Dashboard_Clima.git
 - pip install -r requirements.txt
-- **Importante:** Para funcionar, você deve adicionar sua chave de API da OpenWeather no arquivo: `Classes_Functions.py`
+- **Importante:** Para funcionar, você deve adicionar sua chave de API da OpenWeather no arquivo:`Classes_Functions.py`
+
 ![img.png](imgs/img.png)
 - python Main.py
 
