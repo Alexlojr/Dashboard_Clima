@@ -36,7 +36,7 @@ Projeto
 │── Classes_Functions.py
 │── requirements.txt
 │── README.md
-│── 📁 imgs
+│── imgs
 │     ├── sun.png
 │     ├── cold.png
 │     ├── botaoimg.png
